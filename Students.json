@@ -1,0 +1,22 @@
+[
+    {
+        "Roll_no":10,
+        "name":"Aravind",
+        "Dept":"CSE"
+    },
+    {
+        "Roll_no":11,
+        "name":"Syam",
+        "Dept":"IT"
+    },
+    {
+        "Roll_no":12,
+        "name":"Dhanush",
+        "Dept":"ECE"
+    },
+    {
+        "Roll_no":13,
+        "name":"Greesh",
+        "Dept":"CSE"
+    }
+]

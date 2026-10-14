@@ -1,0 +1,36 @@
+MBU Data Science Laboratory - Execution Videos
+
+All videos are stored inside this videos/ folder.
+
+EXP 1
+part-1-csv-reading.mp4
+part-2-csv-writing.mp4
+part-3-json.mp4
+part-4-excel.mp4
+
+EXP 2
+2A-github-api.mp4
+2B-sqlite.mp4
+
+EXP 3
+3A-missing-values.mp4
+3B-encoding-renaming.mp4
+3C-outliers.mp4
+3D-text-processing.mp4
+
+EXP 4
+4A-multiindex-series.mp4
+4B-multiindex-dataframe.mp4
+4C-dataframe-operations.mp4
+
+EXP 5
+5A-dataset-analysis.mp4
+5B-sales-expenses.mp4
+5B-i-bar-plot.mp4
+5B-ii-stacked-bar.mp4
+5C-histogram-density.mp4
+5D-scatter-plot.mp4
+5E-department-marks.mp4
+
+Video format: MP4, 1280x720, with a soft original ambient background track.
+The code/output content is based on the supplied notebooks and their saved execution outputs.

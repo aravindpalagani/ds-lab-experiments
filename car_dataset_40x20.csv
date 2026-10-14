@@ -1,0 +1,41 @@
+Car_ID,Brand,Model,Year,Fuel_Type,Transmission,Engine_CC,Mileage_kmpl,Price_Lakh,Owner_Count,Kilometers_Driven,Color,Body_Type,Seating_Capacity,City,Seller_Type,Insurance_Valid,Accident_History,Service_Cost_Rs,Resale_Value_Lakh
+C001,Mahindra,XUV300,2015,CNG,Manual,1199,21.9,11.94,2,145442,Silver,SUV,5,Hyderabad,Certified Dealer,Yes,No,8168,2.78
+C002,Maruti,Brezza,2021,Petrol,Manual,1248,18.8,7.96,1,66097,Silver,SUV,5,Vijayawada,Certified Dealer,Yes,No,6280,4.2
+C003,Mahindra,Thar,2018,Petrol,Manual,998,22.2,11.39,1,111848,Black,SUV,4,Vijayawada,Individual,No,No,8007,4.1
+C004,Honda,Amaze,2018,Hybrid,Manual,1197,17.1,10.21,1,82848,Black,Sedan,5,Hyderabad,Individual,No,Minor,7750,3.67
+C005,Honda,City,2022,Diesel,Automatic,1499,13.1,12.0,1,37049,Brown,Sedan,5,Vijayawada,Certified Dealer,No,No,13349,7.2
+C006,Kia,Sonet,2024,Petrol,Manual,2755,15.1,14.76,1,24829,Black,MUV,7,Delhi,Certified Dealer,Yes,No,21321,11.43
+C007,Hyundai,i20,2021,Petrol,Manual,1498,14.2,11.26,1,64994,White,Hatchback,5,Bengaluru,Individual,No,No,7273,5.94
+C008,Mahindra,XUV300,2024,Diesel,Manual,1248,14.2,15.01,3,43982,Black,SUV,5,Bengaluru,Certified Dealer,No,No,9816,10.46
+C009,Mahindra,Scorpio,2025,Petrol,Automatic,998,15.1,14.11,1,13918,Silver,Sedan,5,Chennai,Dealer,No,No,6333,12.42
+C010,Honda,City,2018,Electric,Manual,0,443.8,8.87,1,77286,Brown,Sedan,5,Vijayawada,Individual,Yes,Minor,2800,3.19
+C011,Mahindra,Thar,2017,Petrol,Manual,2179,19.3,13.77,1,127514,Blue,SUV,4,Delhi,Individual,No,No,14356,4.36
+C012,Tata,Tiago,2020,Petrol,Automatic,2179,18.7,12.14,2,77963,Grey,Hatchback,5,Pune,Certified Dealer,No,No,11001,5.36
+C013,Hyundai,Creta,2025,Petrol,Manual,1499,20.0,13.44,1,18323,Silver,SUV,5,Visakhapatnam,Individual,Yes,Major,7818,11.83
+C014,Tata,Nexon,2025,CNG,Automatic,2179,22.1,14.44,1,10402,Red,SUV,5,Hyderabad,Dealer,No,No,13576,12.71
+C015,Honda,WR-V,2017,Diesel,Automatic,1497,25.1,11.34,1,114597,Brown,SUV,5,Vijayawada,Certified Dealer,Yes,Minor,13133,3.59
+C016,Maruti,Dzire,2025,Diesel,Manual,1498,22.3,11.68,2,30381,Black,Sedan,5,Hyderabad,Dealer,No,No,11699,9.76
+C017,Tata,Nexon,2024,Petrol,Manual,1498,23.9,13.73,1,24023,Brown,SUV,5,Chennai,Certified Dealer,Yes,Minor,5962,10.63
+C018,Maruti,Baleno,2024,Hybrid,Manual,1956,23.0,13.04,1,29133,Brown,Hatchback,5,Chennai,Certified Dealer,Yes,No,14288,10.1
+C019,Hyundai,Creta,2025,Diesel,Manual,1497,19.1,13.91,3,35216,Black,SUV,5,Pune,Individual,Yes,No,10084,11.02
+C020,Tata,Punch,2019,Petrol,Automatic,1498,17.9,10.41,1,64101,Brown,MUV,7,Chennai,Individual,No,Minor,8217,4.25
+C021,Hyundai,i20,2020,Petrol,Manual,2393,15.0,10.47,1,71723,Blue,Hatchback,5,Bengaluru,Certified Dealer,No,Minor,13071,4.86
+C022,Hyundai,i20,2015,Electric,Manual,0,314.3,8.57,1,119066,Silver,Hatchback,5,Hyderabad,Dealer,Yes,No,3850,2.1
+C023,Hyundai,Grand i10,2024,Diesel,Automatic,1499,14.6,11.73,1,27408,Grey,Sedan,5,Vijayawada,Individual,Yes,No,11059,9.08
+C024,Toyota,Etios,2022,Electric,Manual,0,426.4,16.15,1,34441,Red,Sedan,5,Bengaluru,Certified Dealer,Yes,No,1400,9.69
+C025,Mahindra,Bolero,2016,Petrol,Manual,1956,13.9,11.24,1,136994,Silver,MUV,7,Hyderabad,Individual,No,Minor,12292,3.13
+C026,Kia,Seltos,2022,CNG,Automatic,1197,12.7,15.19,2,55547,White,MUV,7,Hyderabad,Individual,No,Minor,7604,8.65
+C027,Maruti,Baleno,2017,Petrol,Manual,1499,24.2,6.81,1,122244,Silver,Hatchback,5,Visakhapatnam,Individual,No,No,13311,2.16
+C028,Toyota,Fortuner,2022,Petrol,Automatic,2179,20.9,17.13,1,38575,White,Sedan,5,Visakhapatnam,Certified Dealer,Yes,Minor,13153,10.27
+C029,Hyundai,i20,2024,CNG,Manual,1498,12.8,13.38,1,23684,Brown,Hatchback,5,Bengaluru,Individual,No,Minor,11072,10.36
+C030,Kia,Carens,2017,Petrol,Manual,1199,12.9,9.77,2,115688,Silver,MUV,7,Mumbai,Individual,No,Minor,8395,2.94
+C031,Toyota,Innova,2024,Petrol,Manual,2393,13.1,18.76,1,25798,Grey,MUV,7,Visakhapatnam,Individual,Yes,No,11870,14.53
+C032,Honda,Jazz,2018,Diesel,Manual,1497,17.3,11.48,1,79006,Blue,Hatchback,5,Vijayawada,Certified Dealer,No,No,15478,4.13
+C033,Honda,City,2015,Diesel,Automatic,1197,13.0,8.36,1,82969,Brown,Sedan,5,Chennai,Individual,Yes,No,12402,2.05
+C034,Honda,City,2018,Petrol,Manual,2179,21.5,11.76,3,132836,Silver,Sedan,5,Mumbai,Individual,Yes,No,11036,3.81
+C035,Mahindra,XUV300,2025,CNG,Manual,2755,13.4,18.21,1,12393,Blue,SUV,5,Delhi,Dealer,Yes,No,16979,16.02
+C036,Maruti,Brezza,2017,Petrol,Manual,1498,14.7,8.41,1,117521,Grey,SUV,5,Pune,Dealer,No,No,9856,2.66
+C037,Toyota,Fortuner,2015,Petrol,Manual,1497,12.6,12.98,1,145937,Blue,MUV,7,Hyderabad,Individual,Yes,No,9146,3.18
+C038,Honda,Amaze,2022,Diesel,Manual,998,13.5,13.86,1,48921,Silver,Sedan,5,Delhi,Dealer,Yes,Minor,6933,8.31
+C039,Hyundai,Grand i10,2015,Electric,Manual,0,290.0,6.73,1,125379,Brown,SUV,5,Vijayawada,Certified Dealer,No,No,3850,1.65
+C040,Kia,Seltos,2020,Petrol,Manual,1197,16.8,12.79,2,85301,White,Sedan,5,Chennai,Dealer,No,No,10891,5.64
